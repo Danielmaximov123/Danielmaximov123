@@ -1,9 +1,9 @@
 ## Hi there 👋
 ### Full-stack developer | React | NodeJS | Javascript
 
-[Linkedin Profile 👨‍💻 👩‍💻](https://www.linkedin.com/in/danielmaximov/) ||
-[My Repositories 💻](https://github.com/Danielmaximov123?tab=repositories) ||
-[My Email ✉️](DanielMaximov2@gmail.com) ||
+[Linkedin Profile 👨‍💻 👩‍💻](https://www.linkedin.com/in/danielmaximov/) |
+[My Repositories 💻](https://github.com/Danielmaximov123?tab=repositories) |
+[My Email ✉️](DanielMaximov2@gmail.com) 
 
 
 ## SUMMARY 
