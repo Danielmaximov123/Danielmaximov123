@@ -8,8 +8,9 @@
 
 ## SUMMARY 
 • Full-Stack Developer looking for a position in __React, NodeJS, and JavaScript__.\
+• __Experience as a Freelancer Full-stack developer__
 • __Private teacher for React, Node Js, Express Js, and MongoDB__\
-• __Developed 6 Full-Stack Projects__ with React, NodeJS, ExpressJS, MongoDB, Firebase, and MySQL.\
+• __Developed 7 Full-Stack Projects__ with React, NodeJS, ExpressJS, MongoDB, Firebase, and MySQL.\
 • Intensive Full-Stack course gaining profound experience in MERN Stack - React, NodeJS, ExpressJS, 
  MongoDB.\
 • Programming languages: HTML, CSS, JavaScript (incl. ES6), ReactJS, NodeJS, Express.JS, REST APIs, Python.\
