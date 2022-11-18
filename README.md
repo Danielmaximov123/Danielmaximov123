@@ -3,7 +3,7 @@
 
 [Linkedin Profile 👨‍💻 👩‍💻](https://www.linkedin.com/in/danielmaximov/) |
 [My Repositories 💻](https://github.com/Danielmaximov123?tab=repositories) |
-[My Email ✉️](DanielMaximov2@gmail.com) 
+[My Email ✉️](mailto:DanielMaximov2@gmail.com) 
 
 
 ## SUMMARY 
