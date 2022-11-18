@@ -17,7 +17,7 @@
 • Work environment: VScode, MySQL, Postman; Operating systems: Windows\
 • Databases: MongoDB, Firebase, MySQL; Organizational systems: CRM, Priority\
 • I am highly motivated to reach the next challenge in my career.\
-• A team player, quick learner, and creative thinker, Passionate, Organized and Committed.\
+• A team player, quick learner, and creative thinker, Passionate, Organized and Committed.
 
 
 
