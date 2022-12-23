@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>Hi, I'm Daniel, I'm Full Stack developer from Israel,<br>Private teacher for React, Node Js, Express Js, and MongoDB,<br>I am highly motivated to reach the next challenge in my career.
+Hi, I'm Daniel, I'm Full Stack developer from Israel,<br>Private teacher for React, Node Js, Express Js, and MongoDB,<br>I am highly motivated to reach the next challenge in my career.
 
 
 ## 🌐 Socials:
