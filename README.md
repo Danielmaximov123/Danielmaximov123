@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Daniel, I'm Full Stack developer from Israel,<br>Private teacher for React, Node Js, Express Js, and MongoDB,<br>I am highly motivated to reach the next challenge in my career.
+I am a highly skilled Full Stack Developer with extensive experience in<br>React.JS, Node.JS, and other related technologies.<br>I develop efficient, scalable, and maintainable software solutions in line<br>with industry standards, making me an ideal candidate. I am passionate<br>about staying up-to-date with emerging technologies and collaborating<br>with team members to deliver high-quality, user-focused products.
 
 
 ## 🌐 Socials:
